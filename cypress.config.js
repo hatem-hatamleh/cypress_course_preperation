@@ -1,8 +1,9 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  projectId: '2rqixn',
+  projectId: "2rqixn",
   e2e: {
+    video: false,
     baseUrl: "https://qacart-todo.herokuapp.com",
     viewportWidth: 1536,
     viewportHeight: 960,
