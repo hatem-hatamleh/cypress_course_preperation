@@ -1,0 +1,1 @@
+[![cypress-course-preperations](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/2rqixn/master&style=for-the-badge&logo=cypress)](https://dashboard.cypress.io/projects/2rqixn/runs)
